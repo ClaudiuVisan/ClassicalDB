@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2887e03b-e7f2-4258-80da-22cbe8f562dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music_web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_web/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="243pnOHKb9P7s7HWTLOq4HhKAO3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ETTI\An_III\Semestrul_I\Programarea_interfetelor_pentru _baze_de_date\Proiect\Django\music_web\static\js" />
+      <recent name="F:\ETTI\An_III\Semestrul_I\Programarea_interfetelor_pentru _baze_de_date\Proiect\Django\music_web\static\css" />
+      <recent name="F:\ETTI\An_III\Semestrul_I\Programarea_interfetelor_pentru _baze_de_date\Proiect\Django\music_web\static\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ETTI\An_III\Semestrul_I\Programarea_interfetelor_pentru _baze_de_date\Proiect\Django\music_web\static\img" />
+      <recent name="F:\ETTI\An_III\Semestrul_I\Programarea_interfetelor_pentru _baze_de_date\Proiect\Django\music_web\static\fonts" />
+      <recent name="F:\ETTI\An_III\Semestrul_I\Programarea_interfetelor_pentru _baze_de_date\Proiect\Django\music_web\static\css" />
+      <recent name="F:\ETTI\An_III\Semestrul_I\Programarea_interfetelor_pentru _baze_de_date\Proiect\Django\music_web\templates\compositions" />
+      <recent name="F:\ETTI\An_III\Semestrul_I\Programarea_interfetelor_pentru _baze_de_date\Proiect\Django\music_web\templates\composer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="music_web" type="Python.DjangoServer" factoryName="Django server">
+      <module name="music_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="music_web.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2887e03b-e7f2-4258-80da-22cbe8f562dc" name="Changes" comment="" />
+      <created>1642869291360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642869291360</updated>
+      <workItem from="1642869338436" duration="70000" />
+      <workItem from="1642869421713" duration="8549000" />
+      <workItem from="1642879436688" duration="3988000" />
+      <workItem from="1642920148768" duration="5773000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated database for CLearDB">
+      <created>1642923889162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642923889162</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bugfix">
+      <created>1642924968434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642924968434</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bugfix hope">
+      <created>1642925447588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642925447588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated database for CLearDB" />
+    <MESSAGE value="Bugfix" />
+    <MESSAGE value="Bugfix hope" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bugfix hope" />
+  </component>
+</project>
