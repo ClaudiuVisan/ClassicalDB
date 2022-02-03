@@ -1,5 +1,4 @@
 # ClassicalDB
-A Django built website which integrates a MySql DB 
+A Django built web app for CRUD Operations on a MySQL Database. 
 
-The website is hosted on Heroku
- https://classical-db.herokuapp.com
+The website is hosted on Heroku:  https://classical-db.herokuapp.com
